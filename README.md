@@ -72,7 +72,7 @@ https://github.com/CostAnalystDotNet/Cost-Analysis/tree/main/Spend%20Plan%20Allo
 
 
 ## Usage Instructions
-1. Open the "SPLIT Tool.xlsx" in your root folder. NOTE: Never change the name of this file. If you'd like to create 
+1. Open the "SPLIT Tool.xlsx" in your root folder. NOTE: Never change the name of this file. If you'd like to create more SPLIT Tools for different projects/efforts, copy this folder and rename the folder rather than renaming the tool. 
 2. Refresh and review the query on each of the following tabs:
 
 
