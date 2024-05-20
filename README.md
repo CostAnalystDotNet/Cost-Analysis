@@ -19,7 +19,7 @@ For simplicity's sake, the Spend Plan Line Item Transformation (SPLIT) Tool and 
 
 Download the package from GitHub at the following link: https://github.com/CostAnalystDotNet/Cost-Analysis/tree/main
 
-Copy or extract the "CostAnalysis" folder and all its contents to your desktop. NOTE: You may add new sub folders, but do not change existing folder names, including the "CostAnalysis" root folder, unless you know what you are doing.
+Copy or extract the "Cost Analysis" folder and all its contents to your desktop. NOTE: You may add new sub folders, but do not change existing folder names, including the "Cost Analysis" root folder, unless you know what you are doing.
 
 It is recommended to create a copy of the "Spend Plan Line Item Transformation (SPLIT) Tool" folder and rename it for each instance of the tool you plan to work on (e.g., "Spend Plan Line Item Transformation (SPLIT) Tool - FY23", "Spend Plan Line Item Transformation (SPLIT) Tool - FY24", "Spend Plan Line Item Transformation (SPLIT) Tool - FY25", etc.) 
 
